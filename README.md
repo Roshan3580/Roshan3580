@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at UC Irvine (Class of 2026) with a passion for building impactful tech products, solving complex problems, and growing as a developer every day.
 
-- 🔬 Currently working on **![SkillSync](https://github.com/Roshan3580/SkillSync)**, a platform that personalizes your tech career roadmap using AI.
+- 🔬 Currently working on **[SkillSync](https://github.com/Roshan3580/SkillSync)**, a platform that personalizes your tech career roadmap using AI.
 - 📚 Sharpening my skills in **DSA**, **system design**, and **machine learning**—prepping for a 2026 software engineering internship!
 - 💡 Always exploring new ideas in AI, full-stack dev, and product thinking.
 
