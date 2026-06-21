@@ -16,7 +16,7 @@ Building AI systems, backend infrastructure, and developer tools.
 
 ---
 
-# Featured Projects
+## Featured Projects
 
 ## Fessor.ai
 
@@ -45,6 +45,16 @@ Analyzes how LLMs understand and cite companies using deterministic scoring and 
 Built with Puck, React Email, Resend integration, scheduling, live preview, and mock-safe delivery.
 
 **Tech:** TypeScript, Next.js, React Email, Resend
+
+---
+
+## Lex-Rules-Intelligence
+
+**Source-backed rules intelligence platform**
+
+Turns fragmented tax/compliance sources into searchable, cited, reviewable operational workflows with ingestion, retrieval, confidence scoring, human review, and analytics.
+
+**Tech:** FastAPI, Python, TypeScript, React, retrieval, citations, human-in-the-loop workflows
 
 ---
 
