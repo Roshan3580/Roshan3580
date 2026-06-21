@@ -10,7 +10,7 @@ Building AI systems, backend infrastructure, and developer tools.
 ## About Me
 
 - Building AI systems, backend infrastructure, and developer tools.
-- Recently built Fessor.ai, SignalRank, and Nautilus.
+- Recently built Fessor.ai, SignalRank, Lex, and Nautilus.
 - Interested in distributed systems, LLM applications, and scalable architectures.
 - Passionate about turning research ideas into production systems.
 
